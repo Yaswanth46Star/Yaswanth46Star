@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tadipatri Yaswanth Reddy</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 <br>
-
-
-- 🔭 I’m currently working on **Electronic signature generator**
-
-- 🌱 I’m currently learning **Cryptography, blockchain technology and content based image retrieval.**
-
-- 👯 I’m looking to collaborate on **Electronic signature validator**
 
 - 👨‍💻 All of my projects are available at [https://yaswanthreddytadipatri.github.io/](https://yaswanthreddytadipatri.github.io/)
 
